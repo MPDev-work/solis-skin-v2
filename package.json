@@ -1,7 +1,7 @@
 {
-  "name": "solis-skin",
-  "homepage": "https://mpdev-work.github.io/solis-skin-v2",
-  "public": true,
+  "name": "lumi-petal",
+  "homepage": "https://mpdev-work.github.io/lumi-petal-v2/",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
