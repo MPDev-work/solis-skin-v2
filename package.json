@@ -1,7 +1,7 @@
 {
   "name": "solis-skin",
   "homepage": "https://MPDev-work.github.io/solis-skin-v2",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
