@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  base: './',
+  base: '/solis-skin-v2',
   plugins: [react(), tailwindcss()],
 });
